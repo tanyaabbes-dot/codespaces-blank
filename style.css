@@ -85,3 +85,21 @@
         margin: 5px 10px;
     }
 }
+
+.intro-text {
+    max-width: 800px;
+    margin: 0 auto 40px auto;
+    line-height: 1.6;
+    color: #555;
+    font-size: 1.1rem;
+}
+
+.intro-text h2 {
+    margin-bottom: 20px;
+    color: #333;
+    font-size: 2rem;
+}
+
+strong {
+    color: #007BFF;
+}
